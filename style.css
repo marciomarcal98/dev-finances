@@ -263,6 +263,8 @@ input {
   padding: 0.8rem;
 
   width: 100%;
+
+  outline-color: var(--light-green);
 }
 
 .input-group {
